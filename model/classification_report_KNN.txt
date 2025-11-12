@@ -1,0 +1,12 @@
+Model: KNN
+Accuracy: 0.8282
+
+               precision    recall  f1-score   support
+
+citrus canker     0.9686    0.5538    0.7047       390
+      healthy     0.7727    0.9590    0.8558       390
+     melanose     0.8186    0.9718    0.8886       390
+
+     accuracy                         0.8282      1170
+    macro avg     0.8533    0.8282    0.8164      1170
+ weighted avg     0.8533    0.8282    0.8164      1170
