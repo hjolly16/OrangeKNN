@@ -1,0 +1,10 @@
+Model: KNN_Cosine (SKLEARN, Scaled, metric=cosine)
+               precision    recall  f1-score   support
+
+citrus canker     0.9626    0.8590    0.9079       390
+      healthy     0.8621    0.9615    0.9091       390
+     melanose     0.9612    0.9538    0.9575       390
+
+     accuracy                         0.9248      1170
+    macro avg     0.9287    0.9248    0.9248      1170
+ weighted avg     0.9287    0.9248    0.9248      1170
